@@ -1,0 +1,15 @@
+0 condition
+1 pain_max
+2 pain_avg
+3 pain_contr
+4 pain_thresh
+5 pain_toler
+6 own_mood
+7 music_mood
+8 music_pref
+9 order
+10 song_order
+11 hr
+12 bp_sys
+13 bp_dias
+14 nitt
